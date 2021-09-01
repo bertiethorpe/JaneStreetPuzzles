@@ -5,6 +5,9 @@ Created on Mon Aug 30 05:59:55 2021
 
 @author: bertiethorpe
 """
+# Not a particularly elegant solution. given that it comes down to trial and error.
+# A better option, in retrospect, would be for a continuous integral analysis at the boundary of 0.5. 
+# Alas!
 
 import numpy as np
 
